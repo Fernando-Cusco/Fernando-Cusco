@@ -13,5 +13,5 @@
 * Flutter
 
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Cusco&hide=contribs,prs&theme=buefy&show_icons=true) 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Cusco)](https://github.com/Fernando-Cusco/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fernando-Cusco&repo=github-readme-stats)](https://github.com/Fernando-Cusco/github-readme-stats)
 
