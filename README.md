@@ -2,10 +2,8 @@
 
 **Fernando-Cusco/Fernando-Cusco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-###  Voy a ser iOS developer algún día. 
 
-
- Intento aprender diferentes lenguajes y herramientas, entre ellos: 
+ Intentando aprender diferentes lenguajes y herramientas: 
 * HTML
 * CSS
 * JavaScript
