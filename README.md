@@ -12,6 +12,6 @@
 * Angular
 * Flutter
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Cusco&hide=contribs,prs&theme=buefy&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Cusco&layout=compact)](https://github.com/Fernando-Cusco/github-readme-stats)
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Cusco&hide=contribs,prs&theme=buefy&show_icons=true&theme=gradient) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Cusco&layout=compact&theme=gradient)](https://github.com/Fernando-Cusco/github-readme-stats)
 
