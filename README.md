@@ -13,5 +13,5 @@
 * Flutter
 
 ![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Cusco&hide=contribs,prs&theme=buefy&show_icons=true) 
-[![Top Langs](https://github.com/Fernando-Cusco/github-readme-stats)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Cusco&show_icons=true)
 
